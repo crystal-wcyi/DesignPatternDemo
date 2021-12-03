@@ -1,0 +1,11 @@
+package com.demo.factory.model.kfc;
+
+import com.demo.factory.model.FrenchFries;
+
+public class ChinaFrenchFries extends FrenchFries {
+
+	public ChinaFrenchFries() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

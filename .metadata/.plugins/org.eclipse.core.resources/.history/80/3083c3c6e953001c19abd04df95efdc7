@@ -1,0 +1,12 @@
+package com.demo.factory.model.kfc;
+
+import com.demo.factory.model.Beverage;
+
+//饮料实现类
+public class ChinaBeverage extends Beverage {
+
+	public ChinaBeverage() {
+		
+	}
+
+}

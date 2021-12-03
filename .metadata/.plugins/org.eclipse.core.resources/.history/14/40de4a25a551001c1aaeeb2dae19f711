@@ -1,0 +1,31 @@
+package com.demo.structure;
+
+import java.util.ArrayList;
+import com.demo.visitor.IVisitor;
+
+public class Manager extends Staff {
+	
+	private final ArrayList<Staff> arrayList = new ArrayList<Staff>();
+
+	public Manager(String no, String name, String position, float salary) {
+		super(no, name, position, salary);
+	}
+
+	@Override
+	public void add(Staff staff) {
+		this.arrayList.add(staff);
+	}
+
+	@Override
+	public void remove(String no) {
+		
+
+	}
+
+	@Override
+	public void accept(IVisitor visitor) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

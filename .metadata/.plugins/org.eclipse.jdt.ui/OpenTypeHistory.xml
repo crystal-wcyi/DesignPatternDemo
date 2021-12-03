@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=strategy_demo/src&lt;com.demo.strategy{IStrategy.java[IStrategy" modifiers="513" timestamp="1637913998000"/>
+    <typeInfo handle="=template_method_demo/src&lt;com.demo.template{AbstractPeople.java[AbstractPeople" modifiers="1025" timestamp="1638155947000"/>
+    <typeInfo handle="=visitor_demo/src&lt;com.demo.structure{Staff.java[Staff" modifiers="1025" timestamp="1638260619000"/>
+    <typeInfo handle="=visitor_demo/src&lt;com.demo.visitor{IVisitor.java[IVisitor" modifiers="513" timestamp="1638253160000"/>
+    <typeInfo handle="=visitor_demo/src&lt;com.demo.visitor{ISalaryVisitor.java[ISalaryVisitor" modifiers="513" timestamp="1638256265000"/>
+    <typeInfo handle="=factory_method_demo/src&lt;com.demo.factory.model{AbstractSword.java[AbstractSword" modifiers="1025" timestamp="1638336103000"/>
+    <typeInfo handle="=factory_method_demo/src&lt;com.demo.factory.itf{ISwordFactory.java[ISwordFactory" modifiers="513" timestamp="1638337692000"/>
+</typeInfoHistroy>

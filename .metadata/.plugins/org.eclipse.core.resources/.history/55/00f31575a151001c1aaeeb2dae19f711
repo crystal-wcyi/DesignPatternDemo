@@ -1,0 +1,5 @@
+package com.demo.structure;
+
+public abstract class Staff {
+
+}

@@ -1,0 +1,5 @@
+package com.demo.structure;
+
+public class Manager extends Staff {
+
+}

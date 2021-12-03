@@ -1,0 +1,17 @@
+package com.demo.template;
+
+public class PeopleA extends AbstractPeople {
+
+	@Override
+	protected void haveBreakfast() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	protected void transport() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

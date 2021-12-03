@@ -1,0 +1,24 @@
+package com.demo.visitor;
+
+import com.demo.structure.Employees;
+import com.demo.structure.Manager;
+
+public class PrintBaseInfoVisitor implements IVisitor {
+
+	public PrintBaseInfoVisitor() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void visit(Manager manager) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void visit(Employees employee) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

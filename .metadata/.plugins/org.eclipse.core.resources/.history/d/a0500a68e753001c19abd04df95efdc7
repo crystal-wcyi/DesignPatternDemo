@@ -1,0 +1,11 @@
+package com.demo.factory.model;
+
+public abstract class ChickenWings extends AbstractBaseFood implements IFood {
+
+	@Override
+	public void printMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.demo.strategy.IStrategy"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.math.RoundingMode"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.demo.strategy.PromotionalStrategy"/>
+    <fullyQualifiedTypeName name="com.demo.strategy.RebateStrategy"/>
+    <fullyQualifiedTypeName name="com.demo.strategy.ReduceStrategy"/>
+    <fullyQualifiedTypeName name="com.demo.template.AbstractPeople"/>
+    <fullyQualifiedTypeName name="com.demo.template.PeopleA"/>
+    <fullyQualifiedTypeName name="com.demo.template.PeopleB"/>
+    <fullyQualifiedTypeName name="com.demo.template.PeopleC"/>
+    <fullyQualifiedTypeName name="com.demo.visitor.IVisitor"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.object.QixingSword"/>
+    <fullyQualifiedTypeName name="com.demo.factory.CaoCao"/>
+    <fullyQualifiedTypeName name="com.demo.factory.itf.ISwordFactory"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.AbstractSword"/>
+</qualifiedTypeNameHistroy>

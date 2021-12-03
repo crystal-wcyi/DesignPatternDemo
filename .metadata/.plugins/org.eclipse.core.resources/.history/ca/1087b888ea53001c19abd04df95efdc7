@@ -1,0 +1,10 @@
+package com.demo.factory.itf;
+
+import com.demo.factory.model.Beverage;
+import com.demo.factory.model.ChickenWings;
+import com.demo.factory.model.FrenchFries;
+import com.demo.factory.model.Hamburg;
+
+public interface IKfcFactory {
+
+}

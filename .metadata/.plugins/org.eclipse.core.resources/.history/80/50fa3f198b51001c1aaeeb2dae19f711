@@ -1,0 +1,5 @@
+package structure.copy;
+
+public abstract class Staff {
+
+}

@@ -1,0 +1,14 @@
+package com.demo.factory.custom;
+
+import com.demo.factory.itf.*;
+import com.demo.factory.model.*;
+
+public class Customer {
+
+	//抽象工厂
+	private IKfcFactory kfcFactory;
+	public Customer(IKfcFactory kfcFactory) {
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.demo.factory.model;
+
+public abstract class AbstractSword {
+
+}

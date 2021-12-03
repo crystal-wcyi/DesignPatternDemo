@@ -1,0 +1,15 @@
+package com.demo.factory.model;
+
+public abstract class Hamburg extends AbstractBaseFood implements IFood {
+
+	public Hamburg() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void printMessage() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
