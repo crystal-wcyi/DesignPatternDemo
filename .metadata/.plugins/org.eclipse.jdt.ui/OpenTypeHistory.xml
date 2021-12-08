@@ -7,4 +7,11 @@
     <typeInfo handle="=visitor_demo/src&lt;com.demo.visitor{ISalaryVisitor.java[ISalaryVisitor" modifiers="513" timestamp="1638256265000"/>
     <typeInfo handle="=factory_method_demo/src&lt;com.demo.factory.model{AbstractSword.java[AbstractSword" modifiers="1025" timestamp="1638336103000"/>
     <typeInfo handle="=factory_method_demo/src&lt;com.demo.factory.itf{ISwordFactory.java[ISwordFactory" modifiers="513" timestamp="1638337692000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.model{AbstractBaseFood.java[AbstractBaseFood" modifiers="1025" timestamp="1638501282000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.model{IFood.java[IFood" modifiers="513" timestamp="1638500942000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.model{Hamburg.java[Hamburg" modifiers="1025" timestamp="1638501271000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.model{ChickenWings.java[ChickenWings" modifiers="1025" timestamp="1638501408000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.model{FrenchFries.java[FrenchFries" modifiers="1025" timestamp="1638501485000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.model{Beverage.java[Beverage" modifiers="1025" timestamp="1638501568000"/>
+    <typeInfo handle="=abstract_factory_demo/src&lt;com.demo.factory.itf{IKfcFactory.java[IKfcFactory" modifiers="513" timestamp="1638502756000"/>
 </typeInfoHistroy>

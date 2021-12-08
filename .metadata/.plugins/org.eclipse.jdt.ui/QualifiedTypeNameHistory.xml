@@ -16,4 +16,15 @@
     <fullyQualifiedTypeName name="com.demo.factory.CaoCao"/>
     <fullyQualifiedTypeName name="com.demo.factory.itf.ISwordFactory"/>
     <fullyQualifiedTypeName name="com.demo.factory.model.AbstractSword"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.Beverage"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.ChickenWings"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.FrenchFries"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.Hamburg"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.kfc.ChinaChickenWings"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.kfc.ChinaFrenchFries"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.kfc.ChinaHanBurg"/>
+    <fullyQualifiedTypeName name="com.demo.factory.model.kfc.ChinaBeverage"/>
+    <fullyQualifiedTypeName name="com.demo.factory.custom.Customer"/>
+    <fullyQualifiedTypeName name="com.demo.factory.itf.ChinaKfcFactory"/>
+    <fullyQualifiedTypeName name="com.demo.factory.itf.IKfcFactory"/>
 </qualifiedTypeNameHistroy>

@@ -1,5 +1,0 @@
-package com.demo.template;
-
-public abstract class AbstractPeople {
-
-}

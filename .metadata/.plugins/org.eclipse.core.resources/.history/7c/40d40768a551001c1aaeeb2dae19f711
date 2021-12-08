@@ -1,5 +1,0 @@
-package com.demo.visitor;
-
-public interface IVisitor {
-
-}
