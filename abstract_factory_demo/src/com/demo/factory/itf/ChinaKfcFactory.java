@@ -13,7 +13,7 @@ public class ChinaKfcFactory implements IKfcFactory {
 
 	public ChinaKfcFactory() {
 		// TODO Auto-generated constructor stub
-	}
+	}      
 
 	//生产麻辣风味鸡腿汉堡
 	@Override

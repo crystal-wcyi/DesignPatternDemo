@@ -1,5 +1,0 @@
-package com.demo.factory.itf;
-
-public interface ISwordFactory {
-
-}
